@@ -9,12 +9,12 @@ let click5 = document.querySelector('.level7');
 
 let count = 0;
 
-let audio = new Audio('desk.mp3');
-let audioLevel = new Audio('cookie.mp3');
-let audioLevel2 = new Audio('cookie2.mp3');
-let audioLevel3 = new Audio('cookie3.mp3');
-let audioLevel4 = new Audio('cookie4.mp3');
-let audioLevel5 = new Audio('cookie5.mp3');
+let audio = new Audio('audio-clips/desk.mp3');
+let audioLevel = new Audio('audio-clips/cookie.mp3');
+let audioLevel2 = new Audio('audio-clips/cookie2.mp3');
+let audioLevel3 = new Audio('audio-clips/cookie3.mp3');
+let audioLevel4 = new Audio('audio-clips/cookie4.mp3');
+let audioLevel5 = new Audio('audio-clips/cookie5.mp3');
 
 function cookieClick(){
   count ++;
