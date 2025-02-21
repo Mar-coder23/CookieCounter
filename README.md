@@ -16,5 +16,5 @@ To get started with **Cookie Monster Clicker**:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/cookie-monster-clicker.git
+   git clone https://mar-coder23.github.io/CookieCounter/
 
